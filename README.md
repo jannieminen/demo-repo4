@@ -1,4 +1,4 @@
-# This is a READM.md file
+# This is a README.md file
 
 And here comes some description.
 
